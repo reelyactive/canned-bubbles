@@ -16,3 +16,17 @@ var JEFF_FITBIT_GYM = {
     receiverUrl: "places/gym/"
   }
 };
+
+var BRIAN_IPHONE_GYM = {
+  event: {
+    deviceUrl: "people/brian-iphone/",
+    receiverUrl: "places/gym/"
+  }
+};
+
+var BENOIT_REELYAPP_GYM = {
+  event: {
+    deviceUrl: "people/benoit-reelyapp/",
+    receiverUrl: "places/gym/"
+  }
+};

@@ -39,6 +39,8 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       break;
     case 'gym':
       $scope.devices['00'] = JEFF_FITBIT_GYM;
+      $scope.devices['01'] = BRIAN_IPHONE_GYM;
+      $scope.devices['02'] = BENOIT_REELYAPP_GYM;
       break;
   }
 
