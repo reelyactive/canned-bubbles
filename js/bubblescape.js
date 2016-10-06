@@ -35,7 +35,11 @@ angular.module('bubblescape', ['reelyactive.cormorant',
   // Create the devices based on the demo type
   switch(demo) {
     case 'everything':
-      $scope.devices['00'] = JEFF_COWORKING;
+      $scope.devices['00'] = JEFF_FITBIT_COWORKING;
+      break;
+    case 'gym':
+      $scope.devices['00'] = JEFF_FITBIT_GYM;
+      break;
   }
 
   // Fetch all the stories
