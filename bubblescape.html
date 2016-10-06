@@ -20,7 +20,7 @@
   <body ng-app="bubblescape">
     <div ng-controller="InteractionCtrl">
       <a class="btn btn-info" href="./"> &#8617; </a>
-      <bubble ng-repeat="(id, device) in devices | orderBy:'receiverId'"
+      <bubble ng-repeat="(id, device) in devices"
               ng-if="hasFetchedStory(device)" id="{{id}}" size="160px"
               json="device.story" mode="desktop" motion="true" fade="true"
               visible="Person,Product,Organization">
