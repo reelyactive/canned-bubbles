@@ -102,6 +102,14 @@ var MARTA_WEWORK_COWORKING = {
   }
 };
 
+/* ----- Florent ----- */
+var FLORENT_AMPME_COWORKING = {
+  event: {
+    deviceUrl: "people/florent-ampme/",
+    receiverUrl: "places/coworking-4j/"
+  }
+};
+
 /* ----- Hugo ----- */
 var HUGO_BMR_GYM = {
   event: {
