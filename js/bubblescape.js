@@ -34,8 +34,12 @@ angular.module('bubblescape', ['reelyactive.cormorant',
 
   // Create the devices based on the demo type
   switch(demo) {
-    case 'everything':
+    case 'coworking':
       $scope.devices['000000000000'] = JEFF_FITBIT_COWORKING;
+      $scope.devices['000000000010'] = BRIAN_IPHONE_COWORKING;
+      $scope.devices['000000000020'] = BENOIT_REELYAPP_COWORKING;
+      $scope.devices['000000000030'] = VINCENT_IPHONE_COWORKING;
+      $scope.devices['000000000040'] = VAUGHN_TAG_COWORKING;
       break;
     case 'gym':
       $scope.devices['000000000000'] = JEFF_FITBIT_GYM;
@@ -43,7 +47,14 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       $scope.devices['000000000020'] = BENOIT_REELYAPP_GYM;
       $scope.devices['000000000030'] = VINCENT_IPHONE_GYM;
       $scope.devices['000000000040'] = VAUGHN_TAG_GYM;
+      $scope.devices['000000000050'] = HUGO_BMR_GYM;
       break;
+    default:
+      $scope.devices['000000000000'] = JEFF_FITBIT_COWORKING;
+      $scope.devices['000000000010'] = BRIAN_IPHONE_GYM;
+      $scope.devices['000000000020'] = BENOIT_REELYAPP_COWORKING;
+      $scope.devices['000000000030'] = VINCENT_IPHONE_GYM;
+      $scope.devices['000000000040'] = VAUGHN_TAG_COWORKING;
   }
 
   // Fetch all the combined stories
