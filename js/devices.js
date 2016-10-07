@@ -37,3 +37,10 @@ var VINCENT_IPHONE_GYM = {
     receiverUrl: "places/gym/"
   }
 };
+
+var VAUGHN_TAG_GYM = {
+  event: {
+    deviceUrl: "people/vaughn-tag/",
+    receiverUrl: "places/gym/"
+  }
+};
