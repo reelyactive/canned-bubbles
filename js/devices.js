@@ -7,7 +7,7 @@
 var JEFF_FITBIT_COWORKING = {
   event: {
     deviceUrl: "people/jeff-fitbit/",
-    receiverUrl: "places/coworking/"
+    receiverUrl: "places/coworking-reelyactive/"
   }
 };
 
@@ -22,7 +22,7 @@ var JEFF_FITBIT_GYM = {
 var BRIAN_IPHONE_COWORKING = {
   event: {
     deviceUrl: "people/brian-iphone/",
-    receiverUrl: "places/coworking/"
+    receiverUrl: "places/coworking-reelyactive/"
   }
 };
 
@@ -37,7 +37,7 @@ var BRIAN_IPHONE_GYM = {
 var BENOIT_REELYAPP_COWORKING = {
   event: {
     deviceUrl: "people/benoit-reelyapp/",
-    receiverUrl: "places/coworking/"
+    receiverUrl: "places/coworking-copier/"
   }
 };
 
@@ -52,7 +52,7 @@ var BENOIT_REELYAPP_GYM = {
 var VINCENT_IPHONE_COWORKING = {
   event: {
     deviceUrl: "people/vincent-iphone/",
-    receiverUrl: "places/coworking/"
+    receiverUrl: "places/coworking-kitchen/"
   }
 };
 
@@ -67,7 +67,7 @@ var VINCENT_IPHONE_GYM = {
 var VAUGHN_TAG_COWORKING = {
   event: {
     deviceUrl: "people/vaughn-tag/",
-    receiverUrl: "places/coworking/"
+    receiverUrl: "places/coworking-eastlounge/"
   }
 };
 
