@@ -40,6 +40,7 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       $scope.devices['000000000020'] = BENOIT_REELYAPP_COWORKING;
       $scope.devices['000000000030'] = VINCENT_IPHONE_COWORKING;
       $scope.devices['000000000040'] = VAUGHN_TAG_COWORKING;
+      $scope.devices['000000000050'] = SIMON_WEWORK_COWORKING;
       break;
     case 'gym':
       $scope.devices['000000000000'] = JEFF_FITBIT_GYM;

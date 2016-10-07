@@ -78,6 +78,14 @@ var VAUGHN_TAG_GYM = {
   }
 };
 
+/* ----- Simon ----- */
+var SIMON_WEWORK_COWORKING = {
+  event: {
+    deviceUrl: "people/simon-wework/",
+    receiverUrl: "places/coworking-frontdesk/"
+  }
+};
+
 /* ----- Hugo ----- */
 var HUGO_BMR_GYM = {
   event: {
