@@ -102,6 +102,14 @@ var MARTA_WEWORK_COWORKING = {
   }
 };
 
+/* ----- Maxime ----- */
+var MAXIME_WEWORK_COWORKING = {
+  event: {
+    deviceUrl: "people/maxime-wework/",
+    receiverUrl: "places/coworking-eastlounge/"
+  }
+};
+
 /* ----- Florent ----- */
 var FLORENT_AMPME_COWORKING = {
   event: {
