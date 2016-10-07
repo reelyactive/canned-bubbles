@@ -42,6 +42,7 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       $scope.devices['000000000040'] = VAUGHN_TAG_COWORKING;
       $scope.devices['000000000050'] = SIMON_WEWORK_COWORKING;
       $scope.devices['000000000060'] = JARRED_WEWORK_COWORKING;
+      $scope.devices['000000000070'] = MARTA_WEWORK_COWORKING;
       break;
     case 'gym':
       $scope.devices['000000000000'] = JEFF_FITBIT_GYM;
@@ -59,6 +60,7 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       $scope.devices['000000000040'] = VAUGHN_TAG_COWORKING;
       $scope.devices['000000000050'] = SIMON_WEWORK_COWORKING;
       $scope.devices['000000000060'] = JARRED_WEWORK_COWORKING;
+      $scope.devices['000000000070'] = MARTA_WEWORK_COWORKING;
   }
 
   // Fetch all the combined stories

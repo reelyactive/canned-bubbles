@@ -94,6 +94,14 @@ var JARRED_WEWORK_COWORKING = {
   }
 };
 
+/* ----- Marta ----- */
+var MARTA_WEWORK_COWORKING = {
+  event: {
+    deviceUrl: "people/marta-wework/",
+    receiverUrl: "places/coworking-frontdesk/"
+  }
+};
+
 /* ----- Hugo ----- */
 var HUGO_BMR_GYM = {
   event: {
