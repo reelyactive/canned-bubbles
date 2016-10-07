@@ -30,3 +30,10 @@ var BENOIT_REELYAPP_GYM = {
     receiverUrl: "places/gym/"
   }
 };
+
+var VINCENT_IPHONE_GYM = {
+  event: {
+    deviceUrl: "people/vincent-iphone/",
+    receiverUrl: "places/gym/"
+  }
+};
