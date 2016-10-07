@@ -44,21 +44,15 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       break;
   }
 
-  // Fetch all the stories
-  function getStories() {
-    for(device in $scope.devices) { 
-      if(!$scope.devices[device].hasOwnProperty('story')) {
-        var deviceUrl = $scope.devices[device].event.deviceUrl;
-        var receiverUrl = $scope.devices[device].event.receiverUrl;
-        cormorant.getCombinedStory(deviceUrl, receiverUrl, function(story) {
-          $scope.devices[device].story = story;
-          getStories();  // Get the next story
-        });
-      }
-    }
+  // Fetch all the combined stories
+  for(device in $scope.devices) { 
+    var deviceUrl = $scope.devices[device].event.deviceUrl;
+    var receiverUrl = $scope.devices[device].event.receiverUrl;
+    cormorant.getCombinedStory(deviceUrl, receiverUrl, device,
+                               function(story, id) {
+      $scope.devices[id].story = story;
+    });
   }
-
-  getStories();
 
   // Verify if the device's story has been fetched
   $scope.hasFetchedStory = function(device) {
