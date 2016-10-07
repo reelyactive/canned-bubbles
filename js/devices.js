@@ -86,6 +86,14 @@ var SIMON_WEWORK_COWORKING = {
   }
 };
 
+/* ----- Jarred ----- */
+var JARRED_WEWORK_COWORKING = {
+  event: {
+    deviceUrl: "people/jarred-wework/",
+    receiverUrl: "places/coworking-phonebooths/"
+  }
+};
+
 /* ----- Hugo ----- */
 var HUGO_BMR_GYM = {
   event: {
