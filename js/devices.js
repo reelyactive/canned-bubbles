@@ -14,7 +14,7 @@ var JEFF_FITBIT_COWORKING = {
 var JEFF_FITBIT_GYM = {
   event: {
     deviceUrl: "people/jeff-fitbit/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-pool/"
   }
 };
 
@@ -29,7 +29,7 @@ var BRIAN_IPHONE_COWORKING = {
 var BRIAN_IPHONE_GYM = {
   event: {
     deviceUrl: "people/brian-iphone/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-weights/"
   }
 };
 
@@ -44,7 +44,7 @@ var BENOIT_REELYAPP_COWORKING = {
 var BENOIT_REELYAPP_GYM = {
   event: {
     deviceUrl: "people/benoit-reelyapp/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-machines/"
   }
 };
 
@@ -59,7 +59,7 @@ var VINCENT_IPHONE_COWORKING = {
 var VINCENT_IPHONE_GYM = {
   event: {
     deviceUrl: "people/vincent-iphone/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-mats/"
   }
 };
 
@@ -74,7 +74,7 @@ var VAUGHN_TAG_COWORKING = {
 var VAUGHN_TAG_GYM = {
   event: {
     deviceUrl: "people/vaughn-tag/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-cardio/"
   }
 };
 
@@ -82,6 +82,6 @@ var VAUGHN_TAG_GYM = {
 var HUGO_BMR_GYM = {
   event: {
     deviceUrl: "people/hugo-bmr/",
-    receiverUrl: "places/gym/"
+    receiverUrl: "places/gym-weights/"
   }
 };
