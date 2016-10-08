@@ -91,6 +91,28 @@ var VINCENT_IPHONE_BUSSHELTER = {
   }
 };
 
+/* ----- Juan ----- */
+var JUAN_REELYAPP_COWORKING = {
+  event: {
+    deviceUrl: "people/juan-reelyapp/",
+    receiverUrl: "places/coworking-reelyactive/"
+  }
+};
+
+var JUAN_REELYAPP_GYM = {
+  event: {
+    deviceUrl: "people/juan-reelyapp/",
+    receiverUrl: "places/gym-cardio/"
+  }
+};
+
+var JUAN_REELYAPP_BUSSHELTER = {
+  event: {
+    deviceUrl: "people/juan-reelyapp/",
+    receiverUrl: "places/busshelter-sidewalk/"
+  }
+};
+
 /* ----- Vaughn ----- */
 var VAUGHN_TAG_COWORKING = {
   event: {
