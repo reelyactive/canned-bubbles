@@ -125,3 +125,109 @@ var HUGO_BMR_GYM = {
     receiverUrl: "places/gym-weights/"
   }
 };
+
+/* ----- Tile ----- */
+var TILE_COWORKING_KITCHEN = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    receiverUrl: "places/coworking-kitchen/"
+  }
+};
+
+var TILE_COWORKING_EASTLOUNGE = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    receiverUrl: "places/coworking-eastlounge/"
+  }
+};
+
+var TILE_GYM_MATS = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    receiverUrl: "places/gym-mats/"
+  }
+};
+
+/* ----- Fitbit ----- */
+var FITBIT_COWORKING = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    receiverUrl: "places/coworking-4j/"
+  }
+};
+
+var FITBIT_GYM_CARDIO = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    receiverUrl: "places/gym-cardio/"
+  }
+};
+
+var FITBIT_GYM_WEIGHTS = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    receiverUrl: "places/gym-weights/"
+  }
+};
+
+/* ----- Garmin ----- */
+var GARMIN_GYM_MACHINES = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Garmin_International",
+    receiverUrl: "places/gym-machines/"
+  }
+};
+
+/* ----- Misfit ----- */
+var MISFIT_GYM_CARDIO = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Misfit_Inc",
+    receiverUrl: "places/gym-cardio/"
+  }
+};
+
+/* ----- Xiaomi ----- */
+var XIAOMI_GYM_POOL = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Xiaomi",
+    receiverUrl: "places/gym-pool/"
+  }
+};
+
+/* ----- Samsung ----- */
+var SAMSUNG_COWORKING_FRONTDESK = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    receiverUrl: "places/coworking-frontdesk/"
+  }
+};
+
+var SAMSUNG_COWORKING_4J = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    receiverUrl: "places/coworking-4j/"
+  }
+};
+
+var SAMSUNG_GYM_MACHINES = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    receiverUrl: "places/gym-machines/"
+  }
+};
+
+/* ----- Nest Cam ----- */
+var NESTCAM_COWORKING = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Nest_Cam",
+    receiverUrl: "places/coworking-frontdesk/"
+  }
+};
+
+/* ----- Myo ----- */
+var MYO_GYM_MATS = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Thalmic-Labs_Myo",
+    receiverUrl: "places/gym-mats/"
+  }
+};
