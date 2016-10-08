@@ -154,6 +154,65 @@ var HUGO_BMR_GYM = {
   }
 };
 
+/* ----- Curious Device ----- */
+var CURIOUS_COWORKING_PHONEBOOTHS = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    receiverUrl: "places/coworking-phonebooths/"
+  }
+};
+
+var CURIOUS_COWORKING_COPIER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    receiverUrl: "places/coworking-copier/"
+  }
+};
+
+var CURIOUS_GYM_MACHINES = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    receiverUrl: "places/gym-machines/"
+  }
+};
+
+var CURIOUS_BUSSHELTER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    receiverUrl: "places/busshelter-inside/"
+  }
+};
+
+/* ----- Apple ----- */
+var APPLE_COWORKING_EASTLOUNGE = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    receiverUrl: "places/coworking-eastlounge/"
+  }
+};
+
+var APPLE_COWORKING_FRONTDESK = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    receiverUrl: "places/coworking-frontdesk/"
+  }
+};
+
+var APPLE_GYM_CARDIO = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    receiverUrl: "places/gym-cardio/"
+  }
+};
+
+var APPLE_BUSSHELTER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    receiverUrl: "places/busshelter-display/"
+  }
+};
+
+
 /* ----- Tile ----- */
 var TILE_COWORKING_KITCHEN = {
   event: {
