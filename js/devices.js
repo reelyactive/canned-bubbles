@@ -18,6 +18,13 @@ var JEFF_FITBIT_GYM = {
   }
 };
 
+var JEFF_FITBIT_BUSSHELTER = {
+  event: {
+    deviceUrl: "people/jeff-fitbit/",
+    receiverUrl: "places/busshelter-inside/"
+  }
+};
+
 /* ----- Brian ----- */
 var BRIAN_IPHONE_COWORKING = {
   event: {
@@ -30,6 +37,13 @@ var BRIAN_IPHONE_GYM = {
   event: {
     deviceUrl: "people/brian-iphone/",
     receiverUrl: "places/gym-weights/"
+  }
+};
+
+var BRIAN_IPHONE_BUSSHELTER = {
+  event: {
+    deviceUrl: "people/brian-iphone/",
+    receiverUrl: "places/busshelter-display/"
   }
 };
 
@@ -48,6 +62,13 @@ var BENOIT_REELYAPP_GYM = {
   }
 };
 
+var BENOIT_REELYAPP_BUSSHELTER = {
+  event: {
+    deviceUrl: "people/benoit-reelyapp/",
+    receiverUrl: "places/busshelter-sidewalk/"
+  }
+};
+
 /* ----- Vincent ----- */
 var VINCENT_IPHONE_COWORKING = {
   event: {
@@ -60,6 +81,13 @@ var VINCENT_IPHONE_GYM = {
   event: {
     deviceUrl: "people/vincent-iphone/",
     receiverUrl: "places/gym-mats/"
+  }
+};
+
+var VINCENT_IPHONE_BUSSHELTER = {
+  event: {
+    deviceUrl: "people/vincent-iphone/",
+    receiverUrl: "places/busshelter-opposite/"
   }
 };
 
@@ -148,6 +176,13 @@ var TILE_GYM_MATS = {
   }
 };
 
+var TILE_BUSSHELTER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    receiverUrl: "places/busshelter-inside/"
+  }
+};
+
 /* ----- Fitbit ----- */
 var FITBIT_COWORKING = {
   event: {
@@ -167,6 +202,13 @@ var FITBIT_GYM_WEIGHTS = {
   event: {
     deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
     receiverUrl: "places/gym-weights/"
+  }
+};
+
+var FITBIT_BUSSHELTER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    receiverUrl: "places/busshelter-display/"
   }
 };
 
@@ -213,6 +255,13 @@ var SAMSUNG_GYM_MACHINES = {
   event: {
     deviceUrl: "http://sniffypedia.org/Organization/Samsung",
     receiverUrl: "places/gym-machines/"
+  }
+};
+
+var SAMSUNG_BUSSHELTER = {
+  event: {
+    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    receiverUrl: "places/busshelter-opposite/"
   }
 };
 

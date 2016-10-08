@@ -71,6 +71,15 @@ angular.module('bubblescape', ['reelyactive.cormorant',
       $scope.devices['000000007000'] = SAMSUNG_GYM_MACHINES;
       $scope.devices['000000008000'] = MYO_GYM_MATS;
       break;
+    case 'busshelter':
+      $scope.devices['000000000000'] = JEFF_FITBIT_BUSSHELTER;
+      $scope.devices['000000000010'] = BRIAN_IPHONE_BUSSHELTER;
+      $scope.devices['000000000020'] = BENOIT_REELYAPP_BUSSHELTER;
+      $scope.devices['000000000030'] = VINCENT_IPHONE_BUSSHELTER;
+      $scope.devices['000000001000'] = TILE_BUSSHELTER;
+      $scope.devices['000000002000'] = FITBIT_BUSSHELTER;
+      $scope.devices['000000003000'] = SAMSUNG_BUSSHELTER;
+      break;
     default:
       $scope.devices['000000000000'] = JEFF_FITBIT_COWORKING;
       $scope.devices['000000000010'] = BRIAN_IPHONE_GYM;
