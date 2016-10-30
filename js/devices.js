@@ -179,28 +179,28 @@ var HUGO_BMR_GYM = {
 /* ----- Curious Device ----- */
 var CURIOUS_COWORKING_PHONEBOOTHS = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    deviceUrl: "https://sniffypedia.org/Product/Any_Curious-Device/",
     receiverUrl: "places/coworking-phonebooths/"
   }
 };
 
 var CURIOUS_COWORKING_COPIER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    deviceUrl: "https://sniffypedia.org/Product/Any_Curious-Device/",
     receiverUrl: "places/coworking-copier/"
   }
 };
 
 var CURIOUS_GYM_MACHINES = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    deviceUrl: "https://sniffypedia.org/Product/Any_Curious-Device/",
     receiverUrl: "places/gym-machines/"
   }
 };
 
 var CURIOUS_BUSSHELTER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Any_Curious-Device/",
+    deviceUrl: "https://sniffypedia.org/Product/Any_Curious-Device/",
     receiverUrl: "places/busshelter-inside/"
   }
 };
@@ -208,28 +208,28 @@ var CURIOUS_BUSSHELTER = {
 /* ----- Apple ----- */
 var APPLE_COWORKING_EASTLOUNGE = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    deviceUrl: "https://sniffypedia.org/Organization/Apple_Inc/",
     receiverUrl: "places/coworking-eastlounge/"
   }
 };
 
 var APPLE_COWORKING_FRONTDESK = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    deviceUrl: "https://sniffypedia.org/Organization/Apple_Inc/",
     receiverUrl: "places/coworking-frontdesk/"
   }
 };
 
 var APPLE_GYM_CARDIO = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    deviceUrl: "https://sniffypedia.org/Organization/Apple_Inc/",
     receiverUrl: "places/gym-cardio/"
   }
 };
 
 var APPLE_BUSSHELTER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Apple_Inc",
+    deviceUrl: "https://sniffypedia.org/Organization/Apple_Inc/",
     receiverUrl: "places/busshelter-display/"
   }
 };
@@ -238,28 +238,28 @@ var APPLE_BUSSHELTER = {
 /* ----- Tile ----- */
 var TILE_COWORKING_KITCHEN = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    deviceUrl: "https://sniffypedia.org/Product/Tile_Tile/",
     receiverUrl: "places/coworking-kitchen/"
   }
 };
 
 var TILE_COWORKING_EASTLOUNGE = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    deviceUrl: "https://sniffypedia.org/Product/Tile_Tile/",
     receiverUrl: "places/coworking-eastlounge/"
   }
 };
 
 var TILE_GYM_MATS = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    deviceUrl: "https://sniffypedia.org/Product/Tile_Tile/",
     receiverUrl: "places/gym-mats/"
   }
 };
 
 var TILE_BUSSHELTER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Tile_Tile",
+    deviceUrl: "https://sniffypedia.org/Product/Tile_Tile/",
     receiverUrl: "places/busshelter-inside/"
   }
 };
@@ -267,28 +267,28 @@ var TILE_BUSSHELTER = {
 /* ----- Fitbit ----- */
 var FITBIT_COWORKING = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    deviceUrl: "https://sniffypedia.org/Product/Fitbit_Wearable/",
     receiverUrl: "places/coworking-4j/"
   }
 };
 
 var FITBIT_GYM_CARDIO = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    deviceUrl: "https://sniffypedia.org/Product/Fitbit_Wearable/",
     receiverUrl: "places/gym-cardio/"
   }
 };
 
 var FITBIT_GYM_WEIGHTS = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    deviceUrl: "https://sniffypedia.org/Product/Fitbit_Wearable/",
     receiverUrl: "places/gym-weights/"
   }
 };
 
 var FITBIT_BUSSHELTER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Fitbit_Wearable",
+    deviceUrl: "https://sniffypedia.org/Product/Fitbit_Wearable/",
     receiverUrl: "places/busshelter-display/"
   }
 };
@@ -296,7 +296,7 @@ var FITBIT_BUSSHELTER = {
 /* ----- Garmin ----- */
 var GARMIN_GYM_MACHINES = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Garmin_International",
+    deviceUrl: "https://sniffypedia.org/Organization/Garmin_International/",
     receiverUrl: "places/gym-machines/"
   }
 };
@@ -304,7 +304,7 @@ var GARMIN_GYM_MACHINES = {
 /* ----- Misfit ----- */
 var MISFIT_GYM_CARDIO = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Misfit_Inc",
+    deviceUrl: "https://sniffypedia.org/Organization/Misfit_Inc/",
     receiverUrl: "places/gym-cardio/"
   }
 };
@@ -312,7 +312,7 @@ var MISFIT_GYM_CARDIO = {
 /* ----- Xiaomi ----- */
 var XIAOMI_GYM_POOL = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Xiaomi",
+    deviceUrl: "https://sniffypedia.org/Organization/Xiaomi/",
     receiverUrl: "places/gym-pool/"
   }
 };
@@ -320,28 +320,28 @@ var XIAOMI_GYM_POOL = {
 /* ----- Samsung ----- */
 var SAMSUNG_COWORKING_FRONTDESK = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    deviceUrl: "https://sniffypedia.org/Organization/Samsung/",
     receiverUrl: "places/coworking-frontdesk/"
   }
 };
 
 var SAMSUNG_COWORKING_4J = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    deviceUrl: "https://sniffypedia.org/Organization/Samsung/",
     receiverUrl: "places/coworking-4j/"
   }
 };
 
 var SAMSUNG_GYM_MACHINES = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    deviceUrl: "https://sniffypedia.org/Organization/Samsung/",
     receiverUrl: "places/gym-machines/"
   }
 };
 
 var SAMSUNG_BUSSHELTER = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Organization/Samsung",
+    deviceUrl: "https://sniffypedia.org/Organization/Samsung/",
     receiverUrl: "places/busshelter-opposite/"
   }
 };
@@ -349,7 +349,7 @@ var SAMSUNG_BUSSHELTER = {
 /* ----- Nest Cam ----- */
 var NESTCAM_COWORKING = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Nest_Cam",
+    deviceUrl: "https://sniffypedia.org/Product/Nest_Cam/",
     receiverUrl: "places/coworking-frontdesk/"
   }
 };
@@ -357,7 +357,7 @@ var NESTCAM_COWORKING = {
 /* ----- Myo ----- */
 var MYO_GYM_MATS = {
   event: {
-    deviceUrl: "http://sniffypedia.org/Product/Thalmic-Labs_Myo",
+    deviceUrl: "https://sniffypedia.org/Product/Thalmic-Labs_Myo/",
     receiverUrl: "places/gym-mats/"
   }
 };
